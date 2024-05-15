@@ -1,4 +1,6 @@
 value = 10
-print("git")
-print(value)
+value_2 = 20
+
+print(value + value_2)
+
 
