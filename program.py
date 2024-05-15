@@ -1,6 +1,6 @@
-value = 10
-value_2 = 20
+from car import Car
 
-print(value + value_2)
+car = Car("BMW")
 
+print(car.value)
 
