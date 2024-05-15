@@ -1,6 +1,8 @@
 from car import Car
 
-car = Car("BMW")
+car1 = Car("BMW")
+car2 = Car("Audi")
 
-print(car.value)
+print(car1.value)
+print(car2.value)
 

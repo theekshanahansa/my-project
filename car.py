@@ -1,5 +1,5 @@
 class Car:
-    name = ""
+    brand = ""
 
-    def __int__(self, name):
-        self.name = name
+    def __int__(self, brand):
+        self.brand = brand
